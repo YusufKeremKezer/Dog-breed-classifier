@@ -75,11 +75,10 @@ All three models successfully:
 - `*_pet-images.txt`: Detailed results for each model architecture
 - `check_images.txt`: Analysis of uploaded image classifications
 
-## Requirements
+## Install Requirements
 
-- Python 3.x
-- PyTorch
-- torchvision
+- pip install -r requirements.txt
+
 
 ## License
 
